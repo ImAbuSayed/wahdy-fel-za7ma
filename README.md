@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في هذا الزمان
+> قلبي ينادي لك في كل مكان
+> أنت الأمل وأنت الأمان
+> روحي تذوب في هذا الحنان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
