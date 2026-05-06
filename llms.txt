@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wahdy-fel-za7ma/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Wahdy Fel Za7ma](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Wahdy Fel Za7ma](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
